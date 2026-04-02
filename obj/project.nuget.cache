@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hx2brB/wO6g=",
+  "success": true,
+  "projectFilePath": "C:\\sudo\\kod_papka\\challenge_kod\\day2\\ExpenseBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andro\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\andro\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
